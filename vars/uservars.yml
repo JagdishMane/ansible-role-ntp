@@ -1,0 +1,15 @@
+---
+# vars file for userrole
+staff_list:
+  - staff1
+  - staff2
+  - staff3
+  - staff4
+guest_list:
+  - guest1
+  - guest2
+  - guest3
+  - guest4
+revoke_list:
+  - rev1
+  - rev2
